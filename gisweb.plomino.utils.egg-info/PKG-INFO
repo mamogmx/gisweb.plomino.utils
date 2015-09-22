@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: gisweb.plomino.utils
+Version: 0.1
+Summary: GisWeb Utils for plomino
+Home-page: http://svn.plone.org/svn/collective/
+Author: Marco Carbone
+Author-email: marco.carbone@gmx.com
+License: GPL
+Description: Introduction
+        ============
+        
+        GisWeb Utils for Products.CMFPlomino
+        
+        This product may contain traces of nuts.
+        
+        Changelog
+        =========
+        
+        0.1dev (unreleased)
+        -------------------
+        
+        - Initial release
+        
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
